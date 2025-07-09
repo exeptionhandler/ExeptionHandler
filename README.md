@@ -38,6 +38,14 @@
 
 ---
 
+### 🐍 Snake de contribuciones (porque sí, arte con código)
+
+<p align="center">
+  <img src="https://github.com/exeptionhandler/exeptionhandler/blob/output/dist/github-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ### 💌 Contacto
 
 - 🐙 GitHub: [@exeptionhandler](https://github.com/exeptionhandler)

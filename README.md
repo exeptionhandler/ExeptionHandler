@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 Stats (porque siempre se ven cool)
+### 📈 Stats (miren esta belleza)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=exeptionhandler&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 🐍 Snake de contribuciones (porque sí, arte con código)
+### 🐍 Snake de contribuciones (porque sí, me encanta)
 
 <p align="center">
   <img src="/dist/github-snake.svg" alt="snake gif" />

@@ -1,19 +1,19 @@
 <h1 align="center">🌟 hello, World 🌟</h1>
 
 <p align="center">
-  💻 Aprendiendo a programar con <strong>Python</strong> <br>
-  🌱 Explorando la magia de la automatización y los datos <br>
-  ☕ Fan de los experimentos raros con código <br>
+  💻 Aprendiendo a programar con <strong>Python</strong> <img src="/icons/rainbow_python.gif" width="19"> <br> 
+  🌱 Explorando la magia de la automatización y los datos <img src="/icons/DuckDance.gif" width="19"> <br>
+  ☕ Fan de los experimentos raros con código <img src="/icons/kuromi_wink.webp" width="35"> <br>
 </p>
 
 ---
 
 ### 🎯 Actualmente en...
 
-- 🐍 Aprendiendo Python desde cero
-- 🛠 Automatizando cosas solo por diversión
-- 🧪 Jugando con GitHub Pages y scraping
-- 🎮 Modificando juegos (porque sí, ¿por qué no?)
+* 🐍 Aprendiendo Python desde cero <img src="/icons/python-logo-only.png" width="25">
+* 🛠 Automatizando cosas solo por diversión <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25">
+* 🧪 Jugando con GitHub Pages y scraping <img src="https://media.giphy.com/media/xUPGcyiIcQcOkLJDX6/giphy.gif" width="25">
+* 🎮 Modificando juegos (porque sí, ¿por qué no?) <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25">
 
 ---
 
@@ -48,8 +48,8 @@
 
 ### 💌 Contacto
 
-- 🐙 GitHub: [@exeptionhandler](https://github.com/exeptionhandler)
-- 💬 Discord: *(@ckirb)*
+* 🐙 GitHub: [@exeptionhandler](https://github.com/exeptionhandler)
+* 💬 Discord: *(@ckirb)*
 
 ---
 

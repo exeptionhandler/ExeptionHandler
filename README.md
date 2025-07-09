@@ -41,7 +41,7 @@
 ### 💌 Contacto
 
 - 🐙 GitHub: [@exeptionhandler](https://github.com/exeptionhandler)
-- 💬 Discord: *(pon tu user si quieres aquí)*
+- 💬 Discord: *(@ckirb)*
 
 ---
 

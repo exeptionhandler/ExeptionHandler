@@ -1,19 +1,19 @@
 <h1 align="center">🌟 hello, World 🌟</h1>
 
 <p align="center">
-  💻 Aprendiendo a programar con <strong>Python</strong> <img src="/icons/rainbow_python.gif" width="19"> <br> 
-  🌱 Explorando la magia de la automatización y los datos <img src="/icons/DuckDance.gif" width="19"> <br>
-  ☕ Fan de los experimentos raros con código <img src="/icons/kuromi_wink.webp" width="35"> <br>
+  💻 Aprendiendo a programar con <strong>Python</strong> <img src="/icons/rainbow_python.gif" width="19" style="vertical-align: middle; margin-bottom: 2px;" /> <br> 
+  🌱 Explorando la magia de la automatización y los datos <img src="/icons/DuckDance.gif" width="19" style="vertical-align: middle; margin-bottom: 2px;" /> <br>
+  ☕ Fan de los experimentos raros con código <img src="/icons/kuromi_wink.webp" width="25" style="vertical-align: middle; margin-bottom: 4px;" /> <br>
 </p>
 
 ---
 
 ### 🎯 Actualmente en...
 
-* 🐍 Aprendiendo Python desde cero <img src="/icons/python-logo-only.png" width="25">
-* 🛠 Automatizando cosas solo por diversión <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25">
-* 🧪 Jugando con GitHub Pages y scraping <img src="https://media.giphy.com/media/xUPGcyiIcQcOkLJDX6/giphy.gif" width="25">
-* 🎮 Modificando juegos (porque sí, ¿por qué no?) <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="25">
+* 🐍 Aprendiendo Python desde cero <img src="/icons/python-logo-only.png" width="20" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
+* 🛠 Automatizando cosas solo por diversión <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
+* 🧪 Jugando con GitHub Pages y scraping <img src="https://media.giphy.com/media/xUPGcyiIcQcOkLJDX6/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
+* 🎮 Modificando juegos (porque sí, ¿por qué no?) <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
 
 ---
 

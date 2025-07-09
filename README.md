@@ -41,7 +41,7 @@
 ### 🐍 Snake de contribuciones (porque sí, arte con código)
 
 <p align="center">
-  <img src="https://github.com/exeptionhandler/exeptionhandler/blob/output/dist/github-snake.svg" alt="snake gif" />
+  <img src="/dist/github-snake.svg" alt="snake gif" />
 </p>
 
 ---

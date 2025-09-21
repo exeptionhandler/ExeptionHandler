@@ -12,7 +12,7 @@
 
 * 🐍 Aprendiendo Python desde cero <img src="/icons/python-logo-only.png" width="20" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
 * 🛠 Automatizando cosas solo por diversión <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
-* 🧪 Jugando con GitHub Pages y scraping <img src="https://media.giphy.com/media/xUPGcyiIcQcOkLJDX6/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
+* 🧪 Vibe Coding <img src="https://media.giphy.com/media/xUPGcyiIcQcOkLJDX6/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
 * 🎮 Modificando juegos (porque sí, ¿por qué no?) <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="22" style="vertical-align: middle; margin-left: 4px; margin-bottom: 2px;" />
 
 ---

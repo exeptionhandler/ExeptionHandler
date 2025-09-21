@@ -22,7 +22,8 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiPjxwYXRoIGZpbGw9IiMyOWI2ZjYiIGQ9Ik00NCwxMS4xMXYyNS43OGMwLDEuMjctMC43OSwyLjQtMS45OCwyLjgybC04LjgyLDQuMTRMMzQsMzNWMTVMMzMuMiw0LjE1bDguODIsNC4xNCBDNDMuMjEsOC43MSw0NCw5Ljg0LDQ0LDExLjExeiIvPjxwYXRoIGZpbGw9IiMwMjc3YmQiIGQ9Ik05LDMzLjg5NkwzNCwxNVY1LjM1M2MwLTEuMTk4LTEuNDgyLTEuNzU4LTIuMjc1LTAuODZMNCAyOS4yMzkgYy0wLjksMC44My0wLjg0OSwyLjI2NywwLjEwNywzLjAzMmMwLDAsMS4zMjQsMS4yMzIsMS44MDMsMS41NzRDNy4zMDQsMzQuMzcsOC4yNzEsMzQuNDMsOSwzMy44OTZ6Ii8+PHBhdGggZmlsbD0iIzAyODhkMSIgZD0iTTksMTQuMTA0TDM0LDMzVjQyLjY0N2MwLDEuMTk4LTEuNDgyLDEuNzU4LTIuMjc1LTAuODZMNCAxOC43NjEgYy0wLjktMC44My0wLjg0OS0yLjI2NywwLjEwNy0zLjAzMmMwLDAsMS4zMjQtMS4yMzIsMS44MDMtMS41NzRDNy4zMDQsMTMuNjMsOC4yNzEsMTMuNTcsOSwxNC4xMDR6Ii8+PC9zdmc+&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMCAwaDIzMTF2MjMxMEgwem0yNTY0IDBoMjMxMXYyMzEwaC0yMzExek0wIDI1NjRoMjMxMXYyMzExSDB6TTI1NjQgMjU2NGgyMzExdjIzMTFoLTIzMTF6Ii8+PC9zdmc+&logoColor=white" />
 

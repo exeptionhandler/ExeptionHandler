@@ -35,7 +35,7 @@
 ### 📈 Stats (miren esta belleza)
 
 <p align="center">
-  [![ExeptionHandler's GitHub stats](https://github-readme-stats.zcy.dev/api?username=exeptionhandler)](https://github.com/anuraghazra/github-readme-stats)
+  [!][ExeptionHandler's GitHub stats](https://github-readme-stats.zcy.dev/api?username=exeptionhandler)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---

@@ -50,7 +50,7 @@
 
 ### 💌 Contacto
 
-* 🐙 GitHub: [@exeptionhandler](https://github.com/exeptionhandler)
+* 🐙 GitHub: [@wuiisito](https://github.com/wuiisito)
 * 💬 Discord: *(@ckirb)*
 
 ---
